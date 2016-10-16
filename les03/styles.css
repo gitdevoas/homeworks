@@ -1,0 +1,29 @@
+section, .section {
+    border-bottom: 1px solid #dddddd; /* Параметры линии под текстом */
+    padding-bottom: 5px; /* Расстояние от текста до линии */
+}
+
+/*Обвертка всего*/
+.container {
+	max-width: 1024px;
+	min-width: 800px;
+	margin: 0 auto;
+	padding: 0 100px;
+}
+
+/*Секция*/
+section {
+	padding: 20px 0;
+}
+
+/*Загаловки в секциях*/
+h3 {
+	width: 160px;
+	height: 20px;
+	margin: 10px 0;
+	float: left;
+}
+
+/*Описание*/
+
+
