@@ -23,9 +23,9 @@ long_line_column=72
 
 [files]
 current_page=2
-FILE_NAME_0=1056;HTML;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fles03%2Findex.html;0;4
-FILE_NAME_1=524;CSS;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fles03%2Fstyles.css;0;4
-FILE_NAME_2=0;CSS;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fles03%2Freset.css;0;4
+FILE_NAME_0=0;CSS;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fhomeworks%2Fles03%2Fstyles.css;0;4
+FILE_NAME_1=0;CSS;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fhomeworks%2Fles03%2Freset.css;0;4
+FILE_NAME_2=471;HTML;0;EUTF-8;1;1;0;%2Fhome%2Falex%2Fprojects%2Fhomeworks%2Fles03%2Findex.html;0;4
 
 [VTE]
 last_dir=/home/alex
