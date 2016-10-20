@@ -1,6 +1,6 @@
 body {
 	font-family: Source Sans Pro, Open Sans, Helvetica, Arial, sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	background-color: #1F1F1F;
 	line-height: 1.5;
 	margin: 20px 50px;
@@ -11,7 +11,7 @@ body {
 .container {
 	width: 800px;
 	margin: 0 auto;
-	padding: 0px 50px;
+	padding: 0 50px;
 	background-color: #FFFFFF;
 }
 
@@ -20,8 +20,20 @@ img {
 	border: 1px solid #dddddd;
 	margin: 15px;
 	float: left;
-	max-width: 100%;
+	/*max-width: 100%;*/
 	vertical-align: middle;
+}
+
+head {
+	/*float:left;*/
+}
+
+.title .contacts {
+	/*float: left*/
+}
+
+.wrap-contacts {
+	margin-top: 50px;
 }
 
 h1 {
@@ -30,6 +42,7 @@ h1 {
 	padding-top: 30px;
 	font-weight: 600;
 	letter-spacing: 1px;
+
 }
 
 h2 {
